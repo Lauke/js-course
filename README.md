@@ -10,7 +10,7 @@
 * Module 05 - Mandatory exercises only
 
 ## Part Two
-* Module 06 - DOM - getElementById, querySelector, appendChild, remove, getAttribute & table creation.
+* Module 06 - DOM - getElementById, querySelector, appendChild, remove, getAttribute, table creation, style.borderColor, setAttribute, input event.
 
 ## Sources
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
