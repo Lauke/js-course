@@ -14,11 +14,30 @@ element inside the target element that displays the image referred to by the att
 the original element. */
 
 
+
 (function() {
 
-    const source = document.getElementById('source')
-    const img = document.createElement('img')
-    img.src = source.getAttribute('data-image');
+    const source = document.getElementById('source').getAttribute('data-image');
+    const img = document.createElement('img');
+    img.src = source;
     target.appendChild(img);
-
+    source.remove();
+    
 })();
+
+
+
+
+
+/* const source = document.querySelector('#source').getAttribute('data-image');
+    const target = document.querySelector('#target');
+    const img = document.createElement('img');
+    img.src = source;
+    target.appendChild(img); */
+
+    /*     let source = document.getElementById("source");
+    let img = document.createElement('IMG');
+
+    img.src = source.getAttribute('data-image');
+
+    document.getElementById('target').appendChild(img); */
