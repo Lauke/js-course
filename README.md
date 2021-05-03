@@ -3,7 +3,7 @@
 
 ## Part One
 * Module 00 - Fix exercises only
-* Module 01 - Fix exercises only
+* Module 01 - Mandatory exercises only
 * Module 02 - Mandatory exercises only
 * Module 03 - Mandatory exercises only
 * Module 04 - Mandatory exercises only
