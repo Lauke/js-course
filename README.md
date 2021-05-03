@@ -1,16 +1,19 @@
 # JS-COURSE
+* Languages: HTML, CSS, Javascript
 
-## FINISHED MODULES
+## Part One
+* Module 00 - Fix exercises only
+* Module 01 - Fix exercises only
+* Module 02 - Mandatory exercises only
+* Module 03 - Mandatory exercises only
+* Module 04 - Mandatory exercises only
+* Module 05 - Mandatory exercises only
 
-### MODULE 00 
-* (FIX-IT ONLY)
-### MODULE 01 
-* (MANDATORY EX. ONLY)
-### MODULE 02 
-* (MANDATORY EX. ONLY)
-### MODULE 03 
-* (MANDATORY EX. ONLY)
-### MODULE 04 
-* (MANDATORY EX. ONLY)
-### MODULE 05 
-* (MANDATORY EX. ONLY)
+## Part Two
+* Module 06 - DOM - getElementById, querySelector, appendChild, remove, getAttribute & table creation.
+
+## Sources
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Sololearn](https://www.sololearn.com/)
+* [Freecodecamp](https://www.freecodecamp.org/)
+* [Stackoverflow](https://stackoverflow.com/)
