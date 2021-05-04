@@ -11,6 +11,7 @@
 
 ## Part Two
 * Module 06 - DOM - getElementById, querySelector, appendChild, remove, getAttribute, table creation, style.borderColor, setAttribute, input event.
+* Module 07 - Objects - Learned how to create an object, how to store data in an object & and retrieve data from it.
 
 ## Sources
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
