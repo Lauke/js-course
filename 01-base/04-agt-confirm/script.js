@@ -9,11 +9,8 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
-(function () {
+/* (function () {
 
-    let age;
-    let gender;
-    let town;
     let answer = false;
     while (answer == false) {
         age = prompt('What is your age?');
@@ -24,4 +21,19 @@
         }
     }
 
-})();
+})(); */
+
+(function checkIdentity() {
+
+    let age = prompt('What is your age?');
+    let gender = prompt('What is your gender?');
+    let town = prompt('What is your town?');
+
+    let identity = confirm('Are you ' + age + ', Are you ' + gender + ', and are you from ' + town + '? Is your info correct?');
+    if (identity == true) {
+        alert('I heard ' + town + ' is a nice city!')
+    }
+      else {
+          checkIdentity();
+    }
+  })();
