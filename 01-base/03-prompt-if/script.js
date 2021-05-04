@@ -9,14 +9,14 @@
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
 
+let answer = prompt('Do you want some cake?');
+
 (function() {
 
-  let cake = prompt ('Do you want some cake?')
-  if (cake == 'yes') {
-    alert ('Congratulations');
+  if (answer == "yes") {
+      alert("Congratulations!")
   }
-  else {
-    alert ('More cake for me then :p!');
+    else {
+        alert("More cake for me then!")
   }
-
 })();
