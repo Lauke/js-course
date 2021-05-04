@@ -12,6 +12,6 @@
 (function() {
 
     let hello = "Hello World";
-    alert("Hello world!");
+    alert(hello);
 
 })();

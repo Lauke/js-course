@@ -12,6 +12,6 @@
 (function() {
 
     let name = prompt ('What is your name?');
-    let answer = confirm ('Hello ' + name + '') ;
+    confirm ('Hello ' + name + '') ;
 
 })();
