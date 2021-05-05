@@ -18,14 +18,13 @@
     let dobYear = document.getElementById("dob-year").value;
     let dobComplete = dobMonth + "/" + dobDay + "/" +dobYear;
 
-    /* get the current date + dob complete */
+    /* Get complete dob*/
     
-    let now = new Date();
     let dateofBirth = new Date (dobComplete);
 
     /* calculate the difference   */
 
-    let diff = now.getTime() - dateofBirth.getTime();
+    let diff = new Date().getTime() - dateofBirth.getTime();
     let age = Math.floor(diff / 1000 / 60 / 60 / 24 / 365.25);
 
     alert (age);
